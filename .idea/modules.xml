@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Finish/Finish.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Finish/Finish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Finish/Finish1.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Finish/Finish1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 2- Types/Section 2- Types.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 2- Types/Section 2- Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Start/Start.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Start/Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Start/Start1.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Start/Start1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-mosh.iml" filepath="$PROJECT_DIR$/.idea/java-mosh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/learn-1/learn-1.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/learn-1/learn-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/learn-1/learn-11.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/learn-1/learn-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/learn-2/learn-2.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/learn-2/learn-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/learn-2/learn-21.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/learn-2/learn-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/learn-3/learn-3.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/learn-3/learn-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/p1-MortageCalculator/p1-MortageCalculator.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/p1-MortageCalculator/p1-MortageCalculator.iml" />
+    </modules>
+  </component>
+</project>
