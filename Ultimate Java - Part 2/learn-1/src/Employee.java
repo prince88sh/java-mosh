@@ -38,7 +38,7 @@ public class Employee {
     }
 
     private void setHourlyRate(int hourlyRate){
-        if(hourlyRate<0)
+        if(hourlyRate<=0)
             throw new IllegalArgumentException("Hour cannot be less then 0 or less than that");
         this.hourlyRate=hourlyRate;
     }

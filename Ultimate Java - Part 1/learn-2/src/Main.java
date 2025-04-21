@@ -52,9 +52,9 @@ public class Main {
         System.out.println("-------------FOR EACH LOOP ------------");
        String[] fruits={"apple","Mango","Orange","Papaya"};
        //METHOD 1
-       for(int i= fruits.length;i> 0;i--){
-           System.out.println(fruits[i]);
-       }
+//       for(int j=0;i<=fruits.length;j++){
+//           System.out.println(fruits[jss]);
+//       }
 
        //METHOD 2
         for (String fruit:fruits)
